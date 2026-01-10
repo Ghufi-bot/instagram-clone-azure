@@ -14,5 +14,9 @@ yarn-error.log*
 # build
 frontend/build/
 
-# uploads (optional)
+# uploads
 backend/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
